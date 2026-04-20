@@ -21,7 +21,7 @@ FB_URL = "https://bot-pro-bd-default-rtdb.asia-southeast1.firebasedatabase.app/b
 
 ADMIN_LINK = "https://t.me/ftcaiw24"
 BOT_LINK = "https://t.me/FTC_SUPER_SMS_BOT"
-DV_LINK = "https://t.me/Mhnirob1"
+DV_LINK = "https://t.me/ftcaiw24"
 CN_LINK = "https://t.me/saimonearningzon24"
 
 sent_msgs = {}
